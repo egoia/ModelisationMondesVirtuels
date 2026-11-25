@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/egoia/Dev/Lyon1/MMV/terrain-descriptors-main/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
